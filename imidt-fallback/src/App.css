@@ -1,0 +1,41 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+header {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.graph {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.status-cards {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.event-log {
+  margin-top: 30px;
+  text-align: center;
+  background-color: #e7e7e7;
+  padding: 15px;
+}
