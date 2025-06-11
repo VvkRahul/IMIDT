@@ -1,3 +1,1 @@
-The integration between the android app and the digital twin is unsucessful(it has to happen via bluetooth). However the integration of the digital twin to the cloud is successful which is up and running. 
-
-Ensure to replace the firebase service account key/firebase creds with your firebase creds wherever concerned.
+Developed a system where a Digital Twin simulates patient conditions and transmits real-time data to a cloud platform for secure storage and analysis. Designed a live dashboard to visualize key metrics and risk statuses, enabling continuous patient monitoring. Integrated a mobile application to deliver real-time alerts to nursing staff, ensuring immediate response to critical changes and enhancing patient care efficiency.
